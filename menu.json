@@ -1,0 +1,63 @@
+{
+    "apps":[
+        {
+            "name": "macNcheese",
+            "ingridients": ["mac","cheese"],
+            "description": "soft mac with cheesy cheese"
+        },
+        {
+            "name": "nachos",
+            "ingridients": ["nachos", "cheese"],
+            "description": "crispy nacho with cheese"
+        }
+    ],
+    "Csandwich":[
+        {
+            "name": "BLT",
+            "ingridients":["bacon", "lettus", "tomato"]  ,
+            "description": "... it's a BLT"
+        },
+        {
+            "name": "Club",
+            "ingridients": ["turkey","ham","cheese"] ,
+            "description": "poultry ham and cheese, a classic"
+        }
+    ],
+    "Hsandwich":[
+        {
+            "name": "grilled cheese",
+            "ingridients": ["cheese", "bread"] ,
+            "description": "cheese in bread toasted"
+        },
+        {
+            "name": "Pulled Pork Sandwich",
+            "ingridients":["pulled pork", "bread"]  ,
+            "description": "pulled pork on sourdough"
+        }
+    ],
+    "dessert":[
+        {
+            "name": "Brownie",
+            "ingridients":["fudge", "borrwnie mix"]  ,
+            "description": "juicy fudge brownie"
+        },
+        {
+            "name": "icecream",
+            "ingridients": ["cream", "ice","vinilla"] ,
+            "description": "vinilla icecream in a bowl"
+        }
+    ],
+    "drinks":[
+        {
+            "name": "soda",
+            "ingridients": ["sugar", "watter"] ,
+            "description": "good 'ol sugar water"
+        },
+        {
+            "name": "OJ",
+            "ingridients":  ["juice", "water"],
+            "description": "classic OJ"
+        }
+    ]
+
+}
